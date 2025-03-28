@@ -1,4 +1,4 @@
-# 宇宙漂流瓶
+# 宇宙漂流瓶 (https://weierboge.github.io/-cosmic-drift-bottle/)
 
 一个网页版漂流瓶应用demo。
 
