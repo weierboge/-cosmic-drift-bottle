@@ -8,4 +8,4 @@
 
 这是一场跨越时空的对话，一次孤独与孤独的共振。你的故事，会漂流到谁的掌心？
 
-[!image](https://github.com/weierboge/-cosmic-drift-bottle)
+![image](https://github.com/weierboge/-cosmic-drift-bottle)
